@@ -1,5 +1,33 @@
 # Changelog
 
+## 7.12.1
+
+* 7.12.1 as default version.
+
+## 7.12.0
+
+* 7.12.0 as default version.
+* 6.8.15 as 6.x tested version
+
+
+| PR | Author | Title |
+| --- | --- | --- |
+| [#138](https://github.com/elastic/ansible-beats/pull/138) | [@jmlrt](https://github.com/jmlrt) | [meta] fix changelog after 7.11.2 release  |
+
+
+## 7.11.2
+
+* 7.11.2 as default version.
+
+| PR | Author | Title |
+| --- | --- | --- |
+| [#135](https://github.com/elastic/ansible-beats/pull/135) | [@v1v](https://github.com/v1v) | Update metadata reference for CentOS 8  |
+| [#134](https://github.com/elastic/ansible-beats/pull/134) | [@v1v](https://github.com/v1v) | Remove Ubuntu-14.04 support  |
+| [#118](https://github.com/elastic/ansible-beats/pull/118) | [@v1v](https://github.com/v1v) | Support ubuntu-20  |
+| [#116](https://github.com/elastic/ansible-beats/pull/116) | [@v1v](https://github.com/v1v) | Support debian 10  |
+| [#131](https://github.com/elastic/ansible-beats/pull/131) | [@jmlrt](https://github.com/jmlrt) | Copy ILM policy file with root permission  |
+
+
 ## 7.11.1
 
 * 7.11.1 as default version.
